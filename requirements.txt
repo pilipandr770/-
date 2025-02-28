@@ -1,0 +1,8 @@
+import requests
+from binance.client import Client
+
+# Requirements for the Binance trading bot
+binance
+requests
+decimal
+```
